@@ -1,16 +1,10 @@
-# Core data & ML
-numpy
-pandas
-scikit-learn==1.6.1
-joblib
 
-# Visualization (used during analysis, safe for deployment too)
+streamlit
+altair==4.2.2
+pandas
+numpy
+scikit-learn
+joblib
 matplotlib
 seaborn
 
-# API & deployment
-fastapi
-uvicorn
-
-# UI
-streamlit
